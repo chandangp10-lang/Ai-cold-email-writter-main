@@ -2,12 +2,6 @@
 
 An AI-powered web app that generates personalized job emails instantly — built with **Python**, **Streamlit**, and **Groq LLaMA API**.
 
-## 🖥️ Live Demo
-> Fill in your details, choose a tone, and get a ready-to-send professional email in seconds!
-
-![AI Cold Email Writer](screenshot.png)
-
----
 
 ## 🎯 Features
 - **3 Email Types** — Job Application, Cold Outreach, Post-Interview Follow-Up
@@ -89,6 +83,6 @@ Opens at `http://localhost:8501` 🎉
 ---
 
 ## 👩‍💻 Built by
-**Deepthi** — CS fresher exploring Generative AI 🌱
+**Chandan** — CS fresher exploring Generative AI 🌱
 
 Connect with me on [LinkedIn](https://linkedin.com)
